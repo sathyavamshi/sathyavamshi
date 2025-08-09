@@ -40,7 +40,7 @@
 <h3 align="left">🛠️ Tools & Technologies</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GCP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
@@ -72,7 +72,12 @@
 
 ### 📌 Top Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=sathyavamshi&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<a href="https://github.com/sathyavamshi/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathyavamshi&repo=REPO_NAME_1&theme=vue&hide_border=true" />
+</a>
+<a href="https://github.com/sathyavamshi/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathyavamshi&repo=REPO_NAME_2&theme=vue&hide_border=true" />
+</a>
 
 ---
 
