@@ -40,7 +40,7 @@
 <h3 align="left">🛠️ Tools & Technologies</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="Azure"/>
-  <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" title="AWS"/>
+  <img src="https://images.app.goo.gl/sg6C1uWei8Bp7zX28" width="40" height="40" title="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GCP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
