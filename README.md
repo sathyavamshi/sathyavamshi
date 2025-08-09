@@ -4,24 +4,24 @@
 
 <p align="center">
   <a href="https://github.com/sathyavamshi">
-    <img src="https://img.shields.io/github/followers/vaishnavia4?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/sathyavamshi?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/vaishnavia24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi-blue?logo=linkedin&style=flat-square" />
+  <a href="https://www.linkedin.com/in/sathyavamshi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sathya-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavia4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sathyavamshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🌱 Currently working on **Azure Infrastructure Automation with Bicep**
 - 🤖 Exploring **Azure OpenAI + AI Search + Teams Chatbots**
 - 🔧 Maintaining multiple **DevOps pipelines and ARM/Bicep deployments**
 - 📫 Reach me at: **vaishnavidevops@gmail.com**
-- 🌏 Personal Site: [vaishnavia4.github.io](https://vaishnavia4.github.io)
+- 🌏 Personal Site: [sathyavamshi.github.io](https://sathyavamshi.github.io)
 
 ---
 
@@ -56,22 +56,22 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavia4&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyavamshi&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavia4&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyavamshi&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://github-readme-streak-stats.herokuapp.com?user=vaishnavia4&theme=vue&hide_border=true)
+![GitHub Streak Badge](https://github-readme-streak-stats.herokuapp.com?user=sathyavamshi&theme=vue&hide_border=true)
 
 ---
 
 ### 📌 Top Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=vaishnavia4&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sathyavamshi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
