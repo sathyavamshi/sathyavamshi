@@ -21,7 +21,7 @@
 - 🔧 Building with **Terraform, Docker, Kubernetes, Azure DevOps, GitHub Actions**
 - 🛡️ Interested in **DevSecOps** & cost optimization
 - 📫 Reach me at: **sathyavamshi45@gmail.com**
-- 🔗 LinkedIn: **linkedin.com/in/sathyavamshi**
+- 🔗 LinkedIn: **linkedin.com/in/sathyam4**
 
 ---
 
